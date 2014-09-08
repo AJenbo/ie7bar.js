@@ -1,0 +1,8 @@
+/**
+ * IE7Bar (based on IE6Bar)
+ * Version:	0.9 (November 22, 2013)
+ *
+ * THIS PROJECT IS LICENSED UNDER THE MIT LICENSE:
+ * http://www.opensource.org/licenses/mit-license.php
+ */
+#ie7-warning{margin:0 0 12px;background:#830000 url(img/background.png) repeat-x;border:1px solid #6A0000;font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#FFF;text-align:center}#ie7-warning-container{width:700px;margin:0 auto;text-align:left;padding-top:13px}#ie7-logo{float:left}#ie7-warning-text{margin:0 0 25px 79px}#ie7-warning-title{margin-bottom:3px;font-size:16px;font-weight:700}#ie7-warning-explanation{font-size:11px;text-transform:uppercase;text-align:center}#ie7-warning-details{height:120px;margin:15px 0 10px;text-align:center}#ie7-warning-details a{width:114px;display:inline-block;zoom:1;text-decoration:none;margin:0 20px;background:#F5F5F5}#ie7-warning-details a img{border:0}#ie7-warning-details a span{display:block;color:#666;font-size:11px;text-align:center;border-top:1px dashed #CCC}
